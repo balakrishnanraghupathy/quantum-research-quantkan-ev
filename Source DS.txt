@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset
+
+
+https://www.kaggle.com/datasets/harpree/calce-battery-data
